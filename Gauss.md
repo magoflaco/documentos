@@ -108,4 +108,3 @@ $$
 
 válida para todo $z \in \mathbb{C}$ con $|z| \leq 1$, y por continuación analítica, para todo $z$ excepto en los cortes de rama usuales.
 
-Esta derivación utiliza únicamente transformaciones algebraicas válidas y criterios de convergencia establecidos, sin invocar cambios abruptos de método o manipulaciones heurísticas.
